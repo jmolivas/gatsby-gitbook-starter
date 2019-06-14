@@ -1,7 +1,9 @@
 ---
-title: "Introduction"
-metaTitle: "This is the title tag of this page"
-metaDescription: "This is the meta description"
+title: Introduction title
+metaTitle: This is the title tag of this page
+contentType: none
+metaDescription: This is the meta description
+updated_at: '2019-06-14T07:11:10.630Z'
 ---
 
 Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
